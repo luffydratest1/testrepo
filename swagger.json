@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/luffydratest1/testrepo/main/poc.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/luffydratest1/testrepo/main/poc.yaml",
+            "name": "Foo"
+        }
+    ]
+}
